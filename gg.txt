@@ -1,11 +1,4 @@
-bkasbdk
-kasdlh
-jasbdhkl
-<<<<<<< HEAD
-sachin dhoni kholi
-=======
-
 hi
 hello
-gm
->>>>>>> dev
+goodmorning
+
