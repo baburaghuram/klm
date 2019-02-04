@@ -1,7 +1,0 @@
-hi
-hello
-goodmorning
-
-hello
-goodmorning 
-hi
